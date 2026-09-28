@@ -2,8 +2,8 @@
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 2 Pemrograman Web.  
   
-Nama : Raihan Arrasyid Monadika  
-NIM : 312510206  
+Nama : Fachmi Amrullah 
+NIM : 312510246
 Kelas : I251B  
 Mata Kuliah : Pemrograman Web  
 
