@@ -104,14 +104,18 @@ Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar meng
 
 Menyisipkan file media berupa audio (`<audio>`) dan video (`<video>`) ke dalam halaman web dengan kontrol pemutaran (`controls`) serta mengambil sumber file dari folder `media/`.
 
-<img src="Screenshot/kode8.png">
-<img src="Screenshot/hasil8.png">
+<img width="842" height="243" alt="Screenshot 2026-09-28 183307" src="https://github.com/user-attachments/assets/afe16f99-b612-44b2-9cc0-e38b3b685d05" />
+
+<img width="883" height="566" alt="Screenshot 2026-09-28 183402" src="https://github.com/user-attachments/assets/0dd6a0cc-0887-49c7-be53-bed85ec2f7d4" />
+
 
 
 ### 9. Proyek Mini: Form Biodata Mahasiswa
 
 Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik, tabel data, form registrasi lengkap dengan validasi, hingga elemen multimedia—kedalam satu halaman web proyek mini (`biodata.html`).
 
-<img src="Screenshot/kode9.png">
-<img src="Screenshot/kode9lanjut.png">
-<img src="Screenshot/hasil9.png">
+<img width="1721" height="882" alt="Screenshot 2026-09-28 183653" src="https://github.com/user-attachments/assets/51e35514-70ba-4056-bef4-b98be00b6c01" />
+
+![Uploading image.png…]()
+
+
