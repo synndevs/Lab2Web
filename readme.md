@@ -39,41 +39,52 @@ Pada langkah ini, kita membuat tabel dasar menggunakan elemen `<table>`, `<tr>`,
 
 Menyusun struktur tabel yang lebih kompleks dan rapi dengan membaginya ke dalam bagian kepala (`<thead>`), badan (`<tbody>`), dan kaki tabel (`<tfoot>`), serta menggunakan elemen `<caption>` dan atribut `colspan` untuk menggabungkan sel.
 
-<img src="Screenshot/kode2.png">
-<img src="Screenshot/hasil2.png">
+<img width="756" height="242" alt="Screenshot 2026-09-28 181529" src="https://github.com/user-attachments/assets/cba2345f-b8a7-47e5-aa68-58cba9b72c71" />
+
+<img width="163" height="180" alt="Screenshot 2026-09-28 181540" src="https://github.com/user-attachments/assets/2cf18d97-dbb1-472d-9232-64e45ecc5b39" />
+
 
 
 ### 3. Membuat Form Registrasi Mahasiswa
 
 Membuat form interaktif menggunakan elemen `<form>` beserta elemen input standar seperti teks, email, password, dan tanggal lahir (`type="date"`), dilengkapi tombol submit dan reset.
 
-<img src="Screenshot/kode3.png">
-<img src="Screenshot/hasil3.png">
+<img width="696" height="317" alt="Screenshot 2026-09-28 181957" src="https://github.com/user-attachments/assets/1b3e1163-1f76-44cd-aa9d-2cf322af7265" />
+
+<img width="500" height="392" alt="Screenshot 2026-09-28 181932" src="https://github.com/user-attachments/assets/5bdbdb6a-9167-4bc3-aef6-8053dfacb875" />
+
 
 
 ### 4. Radio Button dan Checkbox
 
 Menambahkan elemen pilihan lanjutan berupa *radio button* (`type="radio"`) untuk pilihan tunggal (seperti jenis kelamin) dan *checkbox* (`type="checkbox"`) untuk pilihan ganda (seperti keahlian).
 
-<img src="Screenshot/kode4.png">
-<img src="Screenshot/hasil4.png">
+<img width="690" height="322" alt="Screenshot 2026-09-28 182142" src="https://github.com/user-attachments/assets/2617da4e-0426-4c23-8bfd-ec6eded8054f" />
+
+
+<img width="287" height="200" alt="Screenshot 2026-09-28 182158" src="https://github.com/user-attachments/assets/242dfab2-b3d0-4c48-b481-4513bc4af941" />
+
 
 
 ### 5. Select dan Textarea
 
 Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta kotak teks multi-baris menggunakan `<textarea>` untuk alamat.
 
-<img src="Screenshot/kode5.png">
-<img src="Screenshot/hasil5.png">
+<img width="727" height="140" alt="Screenshot 2026-09-28 182543" src="https://github.com/user-attachments/assets/e758ce19-f177-40b7-9928-8242d162bd34" />
+
+<img width="438" height="177" alt="Screenshot 2026-09-28 182628" src="https://github.com/user-attachments/assets/bc174007-de03-440f-a63d-3984d38a50a8" />
+
 
 
 ### 6. Validasi Form Dasar
 
 Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, dan `max` pada elemen form untuk memastikan input pengguna valid sebelum dikirim.
 
-<img src="Screenshot/kode6.png">
-<img src="Screenshot/hasil6.png">
-<img src="Screenshot/hasil6lanjut.png">
+<img width="697" height="187" alt="Screenshot 2026-09-28 182716" src="https://github.com/user-attachments/assets/3c634677-7b16-403d-a152-30bc2c2d3345" />
+
+<img width="805" height="40" alt="Screenshot 2026-09-28 182739" src="https://github.com/user-attachments/assets/76f1062f-aeb1-49dc-ad99-4c6b1fe1f075" />
+
+
 
 
 
@@ -81,8 +92,12 @@ Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, 
 
 Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar menggunakan elemen semantik seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`.
 
-<img src="Screenshot/kode7.png">
-<img src="Screenshot/hasil7.png">
+<img width="1278" height="903" alt="Screenshot 2026-09-28 182903" src="https://github.com/user-attachments/assets/8b1cfcd7-b152-4eff-ac0e-77c11dabbc8d" />
+
+
+
+<img width="947" height="381" alt="image" src="https://github.com/user-attachments/assets/ad9ef522-3a22-4ddb-9722-a0e8a8956a7b" />
+
 
 
 ### 8. Menambahkan Multimedia
