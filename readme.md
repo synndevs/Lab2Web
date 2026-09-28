@@ -116,6 +116,14 @@ Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik,
 
 <img width="1721" height="882" alt="Screenshot 2026-09-28 183653" src="https://github.com/user-attachments/assets/51e35514-70ba-4056-bef4-b98be00b6c01" />
 
-![Uploading image.png…]()
+<img width="918" height="286" alt="Screenshot 2026-09-28 183721" src="https://github.com/user-attachments/assets/aa70ffa3-829b-4bb4-8e86-8ad1707f9d77" />
+
+<img width="1016" height="733" alt="Screenshot 2026-09-28 183809" src="https://github.com/user-attachments/assets/f30c0496-8595-427d-b884-9933acace632" />
 
 
+
+
+
+
+
+      
