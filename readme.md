@@ -20,7 +20,8 @@ Lab2Web/
 │   └── video.mp4
 └── README.md
 ```
-<img src="Screenshot/struktur.png">
+<img width="417" height="237" alt="Screenshot 2026-09-28 175745" src="https://github.com/user-attachments/assets/c725137e-46c7-4ea5-b509-06aae5f90160" />
+
 
 
 ## Langkah-Langkah Praktikum
@@ -29,8 +30,10 @@ Lab2Web/
 
 Pada langkah ini, kita membuat tabel dasar menggunakan elemen `<table>`, `<tr>`, `<th>`, dan `<td>` dengan atribut `border="1"` untuk menyajikan data mahasiswa ke dalam bentuk baris dan kolom.
 
-<img src="Screenshot/kode1.png">
-<img src="Screenshot/hasil1.png">
+<img width="767" height="141" alt="Screenshot 2026-09-28 181306" src="https://github.com/user-attachments/assets/db437d1e-9c1a-4144-afab-d6f8eeb584a3" />
+
+<img width="377" height="135" alt="Screenshot 2026-09-28 181410" src="https://github.com/user-attachments/assets/59bfd0e1-5629-4782-a7ac-b7dd3ff6c767" />
+
 
 ### 2. Mengembangkan Tabel dengan `thead`, `tbody`, dan `tfoot`
 
